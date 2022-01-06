@@ -12,7 +12,6 @@ Crie um banco de dados e execute as instruções SQLs abaixo para criar a tabela
   )
   Colação: COLLATE = 'utf8_general_ci'
   AUTO_INCREMENT = 1;
-```
 
 ## Configuração
 As credenciais do banco de dados estão no arquivo `./app/db/Database.php` e você deve alterar para as configurações do seu ambiente (HOST, NAME, USER e PASS).
